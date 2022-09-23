@@ -13,8 +13,4 @@ E-mail: dev.coda.yoda@gmail.com
 
 WhatsApp: 35 9 8473-5386
 
-## Linguagens de programação
 
-![DeaMattos GitHub Stats][https://github-readme-stats.vercel.app/api?DeaMattos={DeaMattos GitHub Stats}&theme=blue-green
-](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-)
