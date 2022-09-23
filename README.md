@@ -1,6 +1,6 @@
 # Olá! Eu sou a Déa. 🖖
 
-Desenvolvdora Web Full Stack em formação na Kenzie Academy Brasil.
+Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil.
 
 ## Minhas mídias sociais
 
