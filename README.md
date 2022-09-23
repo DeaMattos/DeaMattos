@@ -15,5 +15,5 @@ WhatsApp: 35 9 8473-5386
 
 ## Linguagens de programação
 
-https://github-readme-stats.vercel.app/api?username={DeaMattos}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username={DeaMattos GitHub Statis}&theme=blue-green
 
