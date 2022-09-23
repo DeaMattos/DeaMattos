@@ -13,7 +13,7 @@ E-mail: dev.coda.yoda@gmail.com
 
 WhatsApp: 35 9 8473-5386
 
-#### Tecnologias utilizadas | Front-End
+### Tecnologias utilizadas | Front-End
 ![HTML5](https://img.shields.io/static/v1?label=M1&message=HTML5&color=brigthgreen)
 ![CSS3](https://img.shields.io/static/v1?label=M1&message=CSS3&color=brigthgreen)
 ![Java Script](https://img.shields.io/static/v1?label=M1-M2&message=JavaScript&color=brigthgreen)
@@ -22,7 +22,7 @@ WhatsApp: 35 9 8473-5386
 ![Cucumber](https://img.shields.io/static/v1?label=M2&message=Cucumber&color=brigthgreen)
 ![React](https://img.shields.io/static/v1?label=M3&message=React&color=brigthgreen)
 
-#### Tecnologias utilizadas | Back-End
+### Tecnologias utilizadas | Back-End
 
 ![NodeJs](https://img.shields.io/static/v1?label=M4&message=NodeJs&color=blue)
 ![TypeScript](https://img.shields.io/static/v1?label=M4&message=TypeScriptn&color=blue)
