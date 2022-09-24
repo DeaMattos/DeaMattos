@@ -1,6 +1,4 @@
 
-![coda](https://github.com/DeaMattos/DeaMattos/blob/main/coda.jpg)
-
 # Olá! Pode me chamar de Déa. 🖖
 
 Sou Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil. 
@@ -15,6 +13,8 @@ Sou Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil.
 <b>E-mail:</b> <i> dev.coda.yoda@gmail.com </i>
 
 <b>WhatsApp:</b> 35 9 8473-5386
+
+![coda](https://github.com/DeaMattos/DeaMattos/blob/main/coda2.jpg)
 
 ### Tecnologias utilizadas | Front-End
 ![HTML5](https://img.shields.io/static/v1?label=M1&message=HTML5&color=orange)
