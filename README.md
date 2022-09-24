@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/file/d/1WVXKaqyLUi8TVbVD6TpwAVKq4ks740gg/view?usp=sharing" alt="CodaYoda"/>
+
 # Olá! Pode me chamar de Déa. 🖖
 
 Sou Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil. 
