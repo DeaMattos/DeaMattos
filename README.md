@@ -14,23 +14,23 @@ E-mail: dev.coda.yoda@gmail.com
 WhatsApp: 35 9 8473-5386
 
 ### Tecnologias utilizadas | Front-End
-![HTML5](https://img.shields.io/static/v1?label=M1&message=HTML5&color=brigthgreen)
-![CSS3](https://img.shields.io/static/v1?label=M1&message=CSS3&color=brigthgreen)
-![React](https://img.shields.io/static/v1?label=M1&message=React&color=brigthgreen)
-![Java Script](https://img.shields.io/static/v1?label=M1-M2&message=JavaScript&color=brigthgreen)
-![Redux](https://img.shields.io/static/v1?label=M2&message=Redux&color=brigthgreen)
-![Jest](https://img.shields.io/static/v1?label=M2&message=Jest&color=brigthgreen)
-![Cucumber](https://img.shields.io/static/v1?label=M2&message=Cucumber&color=brigthgreen)
-![React](https://img.shields.io/static/v1?label=M3&message=React&color=brigthgreen)
+![HTML5](https://img.shields.io/static/v1?label=M1&message=HTML5&color=orange)
+![CSS3](https://img.shields.io/static/v1?label=M1&message=CSS3&color=orange)
+![React](https://img.shields.io/static/v1?label=M1&message=React&color=orange)
+![Java Script](https://img.shields.io/static/v1?label=M1-M2&message=JavaScript&color=yellow)
+![Redux](https://img.shields.io/static/v1?label=M2&message=Redux&color=yellow)
+![Jest](https://img.shields.io/static/v1?label=M2&message=Jest&color=yellow)
+![Cucumber](https://img.shields.io/static/v1?label=M2&message=Cucumber&color=yellow)
+![React](https://img.shields.io/static/v1?label=M3&message=React&color=brightgreen)
 
 ### Tecnologias utilizadas | Back-End
 
 ![NodeJs](https://img.shields.io/static/v1?label=M4&message=NodeJs&color=blue)
 ![TypeScript](https://img.shields.io/static/v1?label=M4&message=TypeScriptn&color=blue)
 ![Banco de dados SQL](https://img.shields.io/static/v1?label=M4&message=Banco_de_Dados_SQL&color=blue)
-![Django](https://img.shields.io/static/v1?label=M5&message=Django&color=blue)
-![MongoDB](https://img.shields.io/static/v1?label=M5&message=MongoDB&color=blue)
-![Amazon_AWS](https://img.shields.io/static/v1?label=M5&message=Amazon_AWS&color=blue)
+![Django](https://img.shields.io/static/v1?label=M5&message=Django&color=blueviolet)
+![MongoDB](https://img.shields.io/static/v1?label=M5&message=MongoDB&color=blueviolet)
+![Amazon_AWS](https://img.shields.io/static/v1?label=M5&message=Amazon_AWS&color=blueviolet)
 
 
 
