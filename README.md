@@ -18,6 +18,7 @@ WhatsApp: 35 9 8473-5386
 ![CSS3](https://img.shields.io/static/v1?label=M1&message=CSS3&color=brigthgreen)
 ![React](https://img.shields.io/static/v1?label=M1&message=React&color=brigthgreen)
 ![Java Script](https://img.shields.io/static/v1?label=M1-M2&message=JavaScript&color=brigthgreen)
+![Redux](https://img.shields.io/static/v1?label=M2&message=Reduxt&color=brigthgreen)
 ![Jest](https://img.shields.io/static/v1?label=M2&message=Jest&color=brigthgreen)
 ![Cucumber](https://img.shields.io/static/v1?label=M2&message=Cucumber&color=brigthgreen)
 ![React](https://img.shields.io/static/v1?label=M3&message=React&color=brigthgreen)
