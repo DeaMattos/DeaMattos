@@ -1,4 +1,4 @@
-# Olá! Eu sou a Déa. 🖖
+# Olá! Pode me chamar de Déa. 🖖
 
 Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil.
 
