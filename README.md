@@ -1,3 +1,6 @@
+
+![coda](https://github.com/DeaMattos/DeaMattos/blob/main/coda.jpg)
+
 # Olá! Pode me chamar de Déa. 🖖
 
 Sou Desenvolvedora Web Full Stack em formação na Kenzie Academy Brasil. 
